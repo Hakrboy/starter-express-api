@@ -190,7 +190,7 @@ app.all('/lessons', (req, res) => {
               "explainations": "In mathematics, the Pythagorean theorem, or Pythagoras' theorem, is a fundamental relation in Euclidean geometry among the three sides of a right triangle. It states that the area of the square whose side is the hypotenuse is equal to the sum of the areas of the squares on the other two sides."
               },
               {
-                "videoURL": "https://www.youtube.com/watch?v=dl6Iw1X4NQo",
+                "videoURL": "",
                 "explainations": "Pythagoras theorem states that “In a right-angled triangle, the square of the hypotenuse side is equal to the sum of squares of the other two sides“"
               }
           ],
