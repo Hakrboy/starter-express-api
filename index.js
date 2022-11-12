@@ -221,6 +221,17 @@ app.all('/lessons', (req, res) => {
                     "videoURL": "https://www.youtube.com/watch?v=YompsDlEdtc"
                   }
                 ]
+              },
+               {
+                "id": 3,
+                "question": "3nd time Describe Pythagoras Theorem again",
+                "solutions": [
+                  {
+                    "id": 1,
+                    "answer": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                    "videoURL": "https://www.youtube.com/watch?v=YompsDlEdtc"
+                  }
+                ]
               }
           ],
           "excersize": [
